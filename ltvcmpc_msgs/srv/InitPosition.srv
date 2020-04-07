@@ -1,0 +1,3 @@
+gazebo_msgs/ModelState model_state
+---
+bool success
